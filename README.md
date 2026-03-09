@@ -3,6 +3,7 @@
 - 🌱 I’m currently learning AI
 - 💞️ I’m looking to collaborate on AI realted projects
 - 📫 How to reach me akshit2005arora@gmail.com
+- previously: https://github.com/akshit-wq
 
 <!---
 AkshitEP/AkshitEP is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
